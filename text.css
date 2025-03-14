@@ -1,0 +1,161 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.video-title {
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.video-status {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+.video-author {
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+.video-description {
+    width: 300;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    line-height: 20px;
+    margin-bottom: 100px;
+}
+.apple-text {
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    background-color: rgb(227, 65, 64);
+    color:white;
+    text-align: center;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.underline:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Excersice-1 {
+    font-family: Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+}
+.Excersice-2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.Excersice-2b {
+    color: rgb(227, 65, 64);
+    font-style: italic;
+}
+.Excersice-3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    font-family: Verdana;
+}
+.Excersice-3b {
+    color: rgb(156, 156, 156);
+    font-family: Verdana;
+    font-size: 14px;
+}
+.Exercise-3c {
+    font-family: Verdana;
+    margin-top: 14px;
+    width: 250px;
+    font-size: 14px;
+    color: rgb(7, 7, 7);
+}
+.Get-Started {
+    margin-top: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(5, 158, 46);
+    color: white;
+    font-family: Verdana;
+}
+.Exercise-4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+.Exercise-4b {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: 500px;
+}
+.Exercise-4c {
+    font-size: 14px;
+    color: rgb(65, 54, 217);
+    text-align: center;
+    margin-top: 10px;
+}
+.Exercise-5 {
+    font-size: 14px;
+    color: rgb(227, 65, 64);
+    text-align: center;
+    margin-top: 10px;
+}
+.Exercise-5b {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+.buy-button {
+    background-color: rgb(227, 65, 64);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+    align-content: center;
+    text-align: center;
+}
+.currency {
+font-size: 16px;
+color: rgb(100, 100, 100);
+}
+.change {
+color: rgb(24, 128, 56);
+margin-bottom: 8px;
+}
+.after-hours {
+color: rgb(100, 100, 100);
+}
+.after-hours-change {
+color: rgb(235, 39, 39);
+}
+.tweet-header {
+margin-top: 10px;
+margin-bottom: 5px;
+}
+.tweet-author {
+font-weight: bold;
+}
+.tweet-info {
+color: rgb(100, 100, 100);
+}
+.tweet {
+width: 600px;
+line-height: 25px;
+margin-bottom: 20px;
+}
+.twitter-handle {
+color: rgb(29, 155, 240);
+}
