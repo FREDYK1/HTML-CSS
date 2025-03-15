@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Youtube.com(Clone)</title>
+    
     <style>
         .Thumbnail {
             width: 300px;
@@ -17,24 +18,55 @@
         .search-bar {
             display: block;
         }
+        .channel-picture {
+            display: inline-block;
+            width: 50px;
+            vertical-align: top;
+
+        }
+        .video-info {
+            display: inline-block;
+            width: 250px;
+            vertical-align: top;
+            width: 200px;
+        } 
+        .profile-picture {
+            width: 40px;
+            border-radius: 50%;
+
+        }  
         .video-title {
-            width: 300px;
-        }   
+            margin-top: 0;
+        }
+        .Thumbnail-row {
+            margin-top: 12px;
+        }
     </style>
 </head>
 <body>
     <input class= "search-bar" type="text" placeholder="Search">
     <div class="video-preview">
-        <img class="Thumbnail" src="Thumbnails/thumbnail-1.webp" alt="">
-        <p class="video-title">
-            Talking Tech and AI with Google CEO Sundar Pichai!
-        </p>
-        <p>
-            Marques Brownlee
-        </p>
-        <p>
-            3.4M views &middot; 6months ago
-        </p>
+        <div>
+            <img class="Thumbnail" src="Thumbnails/thumbnail-1.webp" alt="">
+        </div>
+        <div class="Thumbnail-row">
+            <div class="channel-picture">
+                <img class="profile-picture" src="channel-pictures/channel-1.jpeg" alt="">
+            </div>
+            <div class="video-info">
+                <p class="video-title">
+                    Talking Tech and AI with Google CEO Sundar Pichai!
+                </p>
+                <p>
+                    Marques Brownlee
+                </p>
+                <p>
+                    3.4M views &middot; 6months ago
+                </p>
+            </div>
+                       
+        </div>
+
     </div>
     <div class="video-preview">
         <img class="Thumbnail" src="Thumbnails/thumbnail-2.webp" alt="">
