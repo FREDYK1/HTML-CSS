@@ -11,6 +11,7 @@
     border-bottom-width: 1px;
     border-bottom-style: solid;
     border-bottom-color: rgb(229, 229, 229);
+    z-index: 1000;
 }
 
 .left-section {
