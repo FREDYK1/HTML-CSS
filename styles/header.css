@@ -50,7 +50,7 @@
 }
 
 .search-button {
-    height: 40px;
+    height: 39px;
     width: 66px;
     background-color: rgb(240, 240, 240);
     border-width: 1px;
@@ -58,6 +58,7 @@
     border-color: rgb(207, 207, 207);
     margin-left: -1px;
     margin-right: 10px;
+    border-radius: 2px;
 }
 
 .voice-search-button {

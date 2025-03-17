@@ -13,7 +13,7 @@
     row-gap: 40px;
 }
 .profile-picture {
-    width: 40px;
+    width: 36px;
     border-radius: 50%;
 }  
 .video-title {
@@ -21,7 +21,7 @@
     font-size: 14px;
     font-weight: 500;
     line-height: 20px;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
 }
 .Thumbnail-row {
     margin-bottom: 8px;
